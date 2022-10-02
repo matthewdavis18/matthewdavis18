@@ -2,4 +2,3 @@ I am a self-taught javascript developer that focuses on using React. Have a pass
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewdavis18)](https://github.com/matthewdavis18/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewdavis18)](https://github.com/matthewdavis18/github-readme-stats)
